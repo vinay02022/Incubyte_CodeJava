@@ -71,7 +71,7 @@ public class StringCalculator {
         	}
         
         //The final sum value returned
-		return su;	
+		return sum;	
 		}
 		
 }
